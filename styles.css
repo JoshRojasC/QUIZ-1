@@ -1,0 +1,26 @@
+body {
+    background-color: white;
+}
+
+#Contenedor {
+
+    max-width: 600px;
+    width: 100%;
+    padding: 25px 50px 10px 50px;
+    border: 1px solid;
+    border-top-style: dashed;
+    border-left-style: dotted;
+    border-right-style: dotted;
+    border-color: red green orange red;
+    text-align: center;
+
+}
+
+#Contenedor p {
+
+    width: 30%;
+    max-width: 300px;
+    padding: 25px 10px;
+    border: 2px solid red;
+
+}
